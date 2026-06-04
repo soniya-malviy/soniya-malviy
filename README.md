@@ -26,12 +26,5 @@ AboutMe:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soniya-malviy&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniya-malviy&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-
-
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/soniya-malviy/soniya-malviy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
