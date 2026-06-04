@@ -5,10 +5,8 @@
 ```yaml
 AboutMe:
   Name: Soniya Malviya
-  Role: AI/ML Research Intern
-  Focus: Large Language Models, Voice Cloning, Agentic Workflows
-  Current_Project: Project Vaani (Agentic Hindi Audiobook Creator)
-  Learning: Advanced NLP & Fine-Tuning
+  Major: Computer Science and Artificial Intelligence 
+  Focus: Large Language Models, Voice Cloning, Agentic Workflows and many more....
 ```
 <h2> 🚀  Some Tools I Have Used and Learned</h2>
 <p align="left">
